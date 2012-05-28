@@ -20,5 +20,5 @@ doc/
 *~
 .project
 .DS_Store
-!._redcar
-!redcar
+.*
+!/.gitignore
