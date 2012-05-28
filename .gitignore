@@ -22,4 +22,4 @@ doc/
 .DS_Store
 
 # Ignore redcar
-/.redcar
+._redcar
