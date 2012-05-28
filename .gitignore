@@ -21,6 +21,6 @@ doc/
 .project
 .DS_Store
 
-# Ignore redcar.
+# Ignore redcar -  doesn't work why??.
 /._redcar
 /._redcar/*
