@@ -13,9 +13,21 @@ cursor_positions:
     :cursor_offset: 0
     :timestamp: 2012-05-28 20:57:32.989000 +01:00
   - :path: Gemfile.lock
-    :cursor_offset: 0
-    :timestamp: 2012-05-28 20:00:54.125000 +01:00
+    :cursor_offset: 2323
+    :timestamp: 2012-05-28 22:36:26.513000 +01:00
   - :path: Gemfile
     :cursor_offset: 0
     :timestamp: 2012-05-28 20:00:25.106000 +01:00
+  - :path: config/routes.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-28 22:45:49.129000 +01:00
+  - :path: app/controllers/users_controller.rb
+    :cursor_offset: 572
+    :timestamp: 2012-05-28 22:45:49.211000 +01:00
+  - :path: app/models/user.rb
+    :cursor_offset: 0
+    :timestamp: 2012-05-28 22:45:49.039000 +01:00
+  - :path: app/views/users/index.html.erb
+    :cursor_offset: 0
+    :timestamp: 2012-05-28 22:45:49.326000 +01:00
 files_to_retain: 0
